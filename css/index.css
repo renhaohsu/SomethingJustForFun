@@ -53,3 +53,19 @@ button {
 	top: 0;
 	
 }
+
+a {
+	color: rgb(255, 255, 255); 
+	font-family: '微軟正黑體'; 
+	font-size: 20px;
+	position: fixed;
+	-webkit-transform: translate(50px, 50px);
+	-ms-transform: translate(50px, 50px);
+	-o-transform: translate(50px, 50px);
+	transform: translate(50px, 50px);
+	z-index: 5;
+}
+a:hover { 
+	color:#FF00FF; 
+	text-decoration:none; 
+} 
